@@ -52,3 +52,32 @@ print(b.pop())
 print(b)
 print(b.pop(3))
 print(b)
+
+#clear()
+l = ['a',b,'c','d']
+print(l)
+l.clear()
+print(l)
+
+#reverse()
+l = ['a','b','c','d']
+print(l)
+l.reverse()
+print(l)
+
+#sort()
+l = [30,10,40,20]
+print(l)
+l.sort()
+print(l)
+
+#sort program
+l1 =[100,50,150,25,75,125,175]
+print(l1)
+l1.sort()
+print(l1)
+
+l2 = ['banana','apple','mango','grapes']
+print(l2)
+l2.sort()
+print(l2)
