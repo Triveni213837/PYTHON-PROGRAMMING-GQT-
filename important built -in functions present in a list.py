@@ -81,3 +81,14 @@ l2 = ['banana','apple','mango','grapes']
 print(l2)
 l2.sort()
 print(l2)
+
+#sort program in reverse order
+l1 =[100,50,150,25,75,125,175]
+print(l1)
+l1.sort(reverse=True)
+print(l1)
+
+l2 = ['banana','apple','mango','grapes']
+print(l2)
+l2.sort(reverse=True)
+print(l2)
